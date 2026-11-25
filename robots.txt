@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://master-romanrf.github.io/corolla150/sitemap.xml
